@@ -76,14 +76,15 @@ Enlazador ld
 
 Arquitectura x86 (32 bits)
 
-📂 Estructura de Directorios
+## 📂 Estructura de Directorios
+
 .
 ├── Resta/
-│   ├── resta.asm
+│ └── resta.asm
 ├── Producto/
-│   ├── multiplicacion.asm
+│ └── multiplicacion.asm
 └── Cociente/
-    ├── division.asm
+└── division.asm
 
 🤝 Contribuciones
 Este repositorio es parte de un ejercicio académico. Las contribuciones son bienvenidas para:
